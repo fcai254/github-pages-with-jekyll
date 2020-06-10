@@ -1,8 +1,8 @@
-title: Foody Blog
+title: Flora's Blog
 author: Flora Cai
 email: fcai@ebnet.org
 description: > # this means to ignore newlines until "baseurl:"
-  This blog is for foods that I like!
+  Hello! I'm Flora. I was a receipient of the 2020 NCWIT (National Center of Women & Information Technology) National Certificate of Distinction. I placed 2nd in New Jersey in Chemistry II League. I interned at Rutgers' WINLAB (Wireless Information Network Laboratory) during the summer of 2019.
 theme: minima
 # social links
 twitter_username: alolafauna # DO NOT include the @ character, or else the build will fail!
